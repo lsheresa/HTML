@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>THE VANCOUVER NUWUS uwu</h1>
+<p> Q . Q</p>
+<a href = "https://www.youtube.com/watch?v=DlexmDDSDZ0&ab_channel=TaylorSwiftTaylorSwiftOfficialArtistChannel"> This is a Youtube link for "The way I loved you" by taylor swift </a>
+<p style = "background-color: white" color:"yellow"> This is a paragraph. It will continue so it can look like a paragraph and easily be identified as a paragraph. It's currently being used for testing. </p>
+<button type = "button"
+onclick="document.getElementById('date').innerHTML = Date()">
+Click for a surprise </button>
+<p id = "date"> </p>
+<sub> I'm trying to make a subscript </sub>
+<sup> I'm trying to make a superscript </sup>
+<sub> subscript </sub>
+<sup> superscript </sup>
+<sub> subscript </sub>
+<sup> superscript </sup><sub> subscript </sub>
+<sup> superscript </sup>
+</body>
+<style> 
+body {background-color: violet; }
+h1 {color: DodgerBlue; }
+p {color: tomato; }
+</style>
+</html>
